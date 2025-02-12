@@ -1,11 +1,11 @@
 <h1>Sierpinski's Triangle (Unity)</h1>
 
 <h2>Description</h2>
-The Sierpinski Triangle is a type of self-similar set, which is a pattern that can be reproduced recurisvely at different reductions and magnifications.
+The Sierpinski Triangle is a fractal that consists of an equilateral triangle, with smaller equilateral triangles recursively removed from its remaining area.
 <br />
 
 <h2>Media</h2>
 
 <p align="center">
-<img src="https://i.imgur.com/jNMGXCh.png" height="80%" width="80%" alt="Media Image"/>
+<img src="https://i.imgur.com/HNDgV6n.png" height="80%" width="80%" alt="Media Image"/>
 </p>
