@@ -3,7 +3,7 @@
 ### [Release Build](https://github.com/ItsCam32/SierpinskiTriangle/releases/tag/v1.0.0)
 
 <h2>Description</h2>
-The Sierpinski Triangle is a fractal that consists of an equilateral triangle, with smaller equilateral triangles recursively removed from its remaining area.
+The Sierpinski Triangle is a fractal that consists of an equilateral triangle, with smaller equilateral triangles recursively removed from its remaining area. Simulated by point plotting in Unity.
 <br />
 
 <h2>Media</h2>
